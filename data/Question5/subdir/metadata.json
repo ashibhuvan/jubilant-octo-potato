@@ -1,0 +1,12 @@
+{
+  "blobs":
+  [
+      {
+        "path": "Question5/subdir/data1.blob",
+        "owner": "maria@tesla.com"
+      },
+      {
+        "path": "Question5/subdir/data2.blob"
+      }
+  ]
+}

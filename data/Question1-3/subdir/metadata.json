@@ -1,0 +1,10 @@
+[
+    {
+      "path": "Question1-3/subdir/data1.blob",
+      "owner": "john@tesla.com"
+    },
+    {
+      "path": "Question1-3/subdir/data2.blob",
+      "owner": "john@tesla.com"
+    }
+]
